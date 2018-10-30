@@ -2,3 +2,4 @@
 <i class="icon-glasses "></i> Nørdezonen
 <i class="icon-binoculars "></i> Se selv
 <i class="icon-video "></i> Se video
+<i class="icon-headphones "></i> Lyd
