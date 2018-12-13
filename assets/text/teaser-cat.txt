@@ -24,4 +24,31 @@ Stamceller
 Kredsløbet
 Muskler
 Fedme
-Psykologi
+Psykologi'
+Kunstig intelligens
+Robotter
+3D Print
+Droner
+Overvågning
+Gadgets
+Computere
+Mobil
+Internet
+Fødevarer
+Energi
+Vindmøller
+Solceller
+Atomkraft
+Batterier
+Konstruktion
+Broer
+Bygninger
+Tunneler
+Materialer
+Efterforskning
+Retsmedicin
+Retsteknik
+Forskningsudstyr
+Krigsteknologi
+Raketter
+DNA-analyse
