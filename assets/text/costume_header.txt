@@ -1,11 +1,11 @@
-Klumme: “Er PR dødt - det har jeg hørt”
+<span>Klumme:</span> “Er PR dødt - det har jeg hørt”
 De største forskelle på de nordiske forbrugere
-Hvornår virker en printannonce (ikke)
-Hvornår er en influencer en god idé?
-Sådan taler du ind i forbrugsgoder over for den modebevidste forbruger
-Indsæt en ny topledelse og få succes i udlandet
-Sådan arbejder du med at samle et splittet brand
-Sådan lander du jobbet som Marketingdirektør
-Kontroller din lagerbeholdning med teknologi
+Hvornår virker en printannonce <span>(ikke)</span>
+Hvornår er en <span>influencer</span> en god idé?
+Sådan taler du ind i forbrugsgoder over for den <span>modebevidste forbruger</span>
+Indsæt en ny topledelse og få <span>succes i udlandet</span>
+Sådan arbejder du med at samle et <span>splittet brand</span>
+Sådan lander du jobbet som <span>Marketingdirektør</span>
+Kontroller din lagerbeholdning med <span>teknologi</span>
 Når man interesserer sig for hudpleje, interesserer man sig også for rejser
-Sådan arbejder du med kultur i din ekspanderende virksomhed
+Sådan arbejder du med <span>kultur</span> i din ekspanderende virksomhed
