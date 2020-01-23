@@ -34,7 +34,7 @@ ini_set("memory_limit", "512M"); // Boosts memory allocation
 // Start a session if it hasn't already been started
 $sid = session_id();
 if (!$sid) {
-   // session_start(); 
+   session_start(); 
 }
 
 // Clear the list of used images
