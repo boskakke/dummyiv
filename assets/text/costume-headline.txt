@@ -1,34 +1,34 @@
-Statement-bæltet er tilbage: Her er dem, du skal gå efter
-21-årige Christian laver blomsterdekorationer, der vil blæse dig bagover
+<span>Statement-bæltet er tilbage:</span> Her er dem, du skal gå efter
+<span>21-årige Christian laver blomster&shy;dekorationer,</span> der vil blæse dig bagover
 De bedste ansigtsmasker på markedet
 Tag på eventyr i Singapore
-Hævede øjne? Sådan slipper du af med puffy eyes
-Ny behandling er hemmeligheden bag flotte øjenbryn
-Becksöndergaard cross-body taske designet kun til Costume. Klik her &gt;&gt;
+<span>Hævede øjne?</span> Sådan slipper du af med puffy eyes
+Ny behandling er hemmeligheden bag <span>flotte øjenbryn</span>
+Becksöndergaard cross-body taske designet kun til Costume
 May Simón Lifschitz har en mission om at ændre verden
-Helena Christensen har designet en H&amp;M-kollektion, der er perfekt til foråret
-15 hverdagsfund under 500 kroner
-Vintertrenden, der aldrig går af mode
-Håreksperten: Dette bliver 2020's mest populære frisure
-Iris Gold: Jeg gør dette inden sengetid, og ser friskere ud næste morgen
-Catwalkens cool frisure, du sagtens selv kan sætte
-5 ting fra dine bedsteforældres hjem, der har fået en uventet renæssance
+<span>Helena Christensen</span> har designet en H&amp;M-kollektion, der er perfekt til foråret
+<span>15 hverdagsfund</span> under 500 kroner
+<span>Vintertrenden</span>, der aldrig går af mode
+<span>Håreksperten:</span> Dette bliver 2020's mest populære frisure
+<span>Iris Gold:</span> Jeg gør dette inden sengetid, og ser friskere ud næste morgen
+<span>Catwalkens cool frisure,</span> du sagtens selv kan sætte
+<span>5 ting fra dine bedsteforældres hjem,</span> der har fået en uventet renæssance
 Denne farve skal du male dine vægge i 2020
-Nem nytårspynt, der vil imponere dine gæster
-De smukkeste nytårsborde, du nemt kan kopiere
+<span>Nem nytårspynt,</span> der vil imponere dine gæster
+<span>De smukkeste nytårsborde,</span> du nemt kan kopiere
 Denne sang øger din udholdenhed under træning og hæver din IQ
-Costume tester: Det gør en måned uden sukker for din hud
+<span>Costume tester:</span> Det gør en måned uden sukker for din hud
 5 ting, du bør droppe i 2020
-May Simón Lifschitz har en mission om at ændre verden
-Helena Christensen har designet en H&amp;M-kollektion, der er perfekt til foråret
+<span>May Simón Lifschitz</span> har en mission om at ændre verden
+<span>Helena Christensen</span> har designet en H&amp;M-kollektion, der er perfekt til foråret
 Få eksklusiv Becksöndergaard-taske med Costume
 De største tendenser i 2020
 Sådan sørger du for, at din strik holder sig pæn i mange år
-Alle på Instagram vælger dette nye mærke, når de skal feste
-Sådan bliver moden i 20'erne: Hør eksperternes bud
+<span>Alle på Instagram</span> vælger dette nye mærke, når de skal feste
+<span>Sådan bliver moden i 20'erne:</span> Hør eksperternes bud
 Dette franske mærke bliver dit nye budgethit
-Kim Kardashian kaster sin kærlighed på nyt dansk mærke
-Prada og Adidas afslører deres nye sneaker-samarbejde
+<span>Kim Kardashian</span> kaster sin kærlighed på nyt dansk mærke
+<span>Prada og Adidas</span> afslører deres nye sneaker-samarbejde
 Tidens mest populære taske skaber uventet Instagram-trend
 26 korte nederdele under 500 kroner
 Statement-bæltet er tilbage: Her er dem, du skal gå efter
@@ -44,9 +44,7 @@ Decembers bedste fund under 500 kroner
 35 festkjoler under 550 kroner
 3 tendenser, danske kvinder ikke kan få nok af
 4 par sko, danske kvinder er vilde med
-Copenhagen Fashion Week: Den bedste stil fra modeugens tredje dag
-Copenhagen Fashion Week: Den bedste stil fra modeugens anden dag
-Copenhagen Fashion Week: Den bedste stil fra modeugens første dag
+<span>Copenhagen Fashion Week:</span> Den bedste stil fra modeugens tredje dag
 Streetstyle fra Roskilde Festival: Solskin og glade dage
 Her er de sko, du skal gå efter
 5 tendenser fra modeugen, vi tror på
@@ -95,12 +93,12 @@ Hvid Sangria med ingefær: Drinken, du skal sippe denne sommer
 10 gode råd til mere bevægelse i hverdagen
 Ny effektiv træningsform gør motion til en leg
 Så længe skal du ligge i planken
-Øg din forbrænding – uden at gå i træningcenter
+<span>Øg din forbrænding</span> – uden at gå i træningcenter
 Få smuk halskæde fra Maanesten med 5 numre af Costume
 Denne sang øger din udholdenhed under træning og hæver din IQ
-Costume tester: Det gør en måned uden sukker for din hud
+<span>Costume tester:</span> Det gør en måned uden sukker for din hud
 5 ting, du bør droppe i 2020
-10 nytårsforsæt, du faktisk kan holde
+<span>10 nytårsforsæt,</span> du faktisk kan holde
 Sådan kommer du i din nytårskjole på 5 dage
 Nye sneakers udnævnt som 'de behageliste sko nogensinde'
 Nyt produkt modvirker oppustethed
